@@ -44,10 +44,36 @@ _One Objective and three Key Results that flow directly from the cascade. Each K
 
 _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
-| Prompt question | What the AI surfaced | Change or defend? |
+| Which challenge from the AI is most valid, and why? |
 |That I am assuming that there is a real and true market that we can scale into.  This can be just a one-time spike from 3m's exit.  It even mentions that my own evidence is against me:  customers outside my normal segments, no relashionship, credibility or sales motion with them.  Once the gap closes the demand may fade.|The fact that 3m stepped out of the market does not provide guarantee for us that this new market will emerge.|PPE cross-sell is an output and hope.  These may represent a growth in segments we have not developped before but still it might lead to new revenue dollars.  I don't think it takes this much focus and energy to generate a contact with these customer and have them discover our company.|
+| What the AI surfaced | 
+ |1. The biggest assumption You're assuming the customers buying Load Arrest today are the leading edge of a market you can scale into. They could just as easily be a one-time spike from 3M's exit. Your own evidence cuts against you: these buyers are outside your normal segments, you have no relationships, credibility or sales motion with them, and they're buying through special order because of a supply gap. Once that gap closes (3M's installed base migrates, other distributors fill in), the demand may fade. The whole plan, including the service exclusivity, rests on "recurring need," and you haven't shown it.
 
+A quieter companion assumption is that the service exclusivity is an asset. An exclusive on recertification can also be an obligation, because you'd carry fixed costs for training, tooling, certification and liability for a business that may not have volume. Nothing in the draft says what the supplier requires in return: minimums, investment, timelines, termination terms.
 
+2. The board question you can't answer yet
+"Across the installed base of 3M units in Canada, how many units come due for recertification in the next 24 months, how many of those would come to you, and at what price and margin? Show me that this service business breaks even."Your draft never sizes the market, the service economics, or the capital and liability you'd carry. Without that, the board is approving a bet whose size it can't see.
+
+3. Are your KRs outputs disguised as outcomes?
+
+KR1 (sales +50%) is an output, and a weak one. It has no baseline or absolute target. If you sold two units last quarter, +50% is three. It says nothing about whether customers are better off, and it measures the hardware when your whole differentiation is the complete solution. It also runs on the wrong clock: August 2027 is under a year away, and the sales cycle in an unfamiliar segment may be longer than that.
+KR2 (renewal rate) is the closest to a real outcome, because it reflects customers coming back. But it's a lagging measure with no target. Renewal can't exist until the first service cycle completes, which could be a year or more after the sale. You can't manage toward it quarter to quarter. You need a leading indicator, such as service attach rate at time of sale.
+KR3 (PPE cross-sell) is an output and a hope. It's also your only link to the real strategic payoff, and it has no number. It also conflicts with your own premise, since these customers aren't in your normal segments and may not need your core PPE range at all.
+
+Your management systems (units quoted, monthly sales, quote conversion) measure only the front of the funnel. None of them tracks service revenue, margin, technician capacity or customer retention, which is where the actual business is.
+
+4. A "hard no" worth reconsidering: the USA
+
+Your reasoning is sound for now: the regulatory context differs, and your exclusivity covers only Canada. But consider why the hard no is written in stone rather than as a condition. Canadian volume alone may be too small to justify building a certified service operation, which means the no could be quietly undermining your own economics. The US is also where 3M's discontinuation left the biggest gap.
+I'm not saying you should enter the US. I'm saying you should replace "never" with an explicit trigger: "We will revisit the US if Canadian volume reaches X, if the supplier will extend the exclusivity, and once we've checked the regulatory path." A permanent no is a constraint you've stopped examining, and the board will notice if Canadian scale can't carry the service business.
+
+5. Strategy or wish list?
+
+It's a wish list: it names a destination and a set of hopes, but it never says which segments, which proof of demand, what economics, or what you'd stop doing, and it contains no tradeoff you'd actually have to defend.
+If you'd like the harsher version, ask for it and I'll write out what a competitor's strategy team would say, which would include how quickly a larger distributor with existing fall-protection customers could take the service business out from under you. |
+
+| What would you change based on the pushback, and what would you defend? |The fact that 3m stepped out of the market does not provide guarantee for us that this new market will emerge.
+Defend: PPE cross-sell is an output and hope.  These may represent a growth in segments we have not developped before but still it might lead to new revenue dollars.  I don't think it takes this much focus and energy to generate a contact with these customer and have them discover our company.The fact that 3m stepped out of the market does not provide guarantee for us that this new market will emerge.
 
 ## 5. Self-diagnostic (6 questions)
 
