@@ -8,7 +8,7 @@
 ## 0. Chosen scenario
 
 **Path:** my own initiative
-My company is a distributor of PPE equipment.  We have always had a commitment to only sell product that are protecting humans (PPE).  Recently, one of our supplier came to us with the proposition of starting to distribute a product called Load Arrest.  There is an opportunity in the market because 3M has recently discontinued their product line.  This created increased demand from customer seeking alternative solution.  The objective is not only to sell the equipement but to also determined whether we could develop a complete solution including technical services (who performs recertification and repairs).  If we move forway with the project, the supplier would give us the monopoly of the service component for Canada.
+My company is a distributor of PPE equipment located in Canada.  We have always had a commitment to only sell product that are protecting humans (PPE).  Recently, one of our supplier came to us with the proposition of starting to distribute a product called Load Arrest.  There is an opportunity in the market because 3M has recently discontinued their product line.  This created increased demand from customer seeking alternative solution.  The objective is not only to sell the equipement but to also determined whether we could develop a complete solution including technical services (who performs recertification and repairs).  If we move forway with the project, the supplier would give us the monopoly of the service component for Canada.
 
 The company, however, has never been involved in this type of business, so this would be a completely new product categorie for us.  We currently started selling the product through special order (at no risks for us) for customer willing to purchase the products immediately.  What we are discovering is that the customer purchasing these products are not part of our typical market segment, making the decision to commit even more complicated.  
 
@@ -28,35 +28,26 @@ _One line on why you picked it._
 
 _One valuable thing you are explicitly choosing **not** to do, and why it protects the focus of everything above. This is a deliberate trade-off, not a backlog of deprioritized items._
 
-> We will not sell and service the product in the USA because the current geopolitical climate is not the right one.
+> We will not sell and service the product in the USA because the regulatory context is really different and our exclusivity is scoped to Canada.
 
 ## 3. OKR cascade
 
 _One Objective and three Key Results that flow directly from the cascade. Each KR must be a measurable **outcome**, not an output/milestone._
 
-> **Objective:** 
->
-> - **KR1:** [Sales of Load Arrest] from [0] to [100 000$] by [August 31st 2027]
-> - **KR2:** [Number of technical services contract for recertification and repairs and load arrest signed by units sold] from [0] to [25] by [August 31st 2028]
-> - **KR3:** [Sales of PPE product to new market segments] from [0] to [reach 500 000] by [one-year]
+> **Objective:** Develop a new business segment with Load Arrest and bring net new revenues to the business.
+
+> - **KR1:** Increase sales of Load Arrest and bring net new revenues to the business
+> - **KR2:** Reach a 25% renewal rate of technical service agreements after initial service is provided
+> - **KR3:** Increase of 50% in PPE purchase for the new customer purchasing Load arrests.
 
 ## 4. AI pressure-test notes
 
 _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 | Prompt question | What the AI surfaced | Change or defend? |
-|---|---|---|
-| Biggest assumption that could be wrong |Three assumptions are bundled together:
-The demand is a transition, not a market. Customers scrambling after a discontinuation buy once, from whoever can ship fastest. Nothing says they stay when the dust settles, or that they choose you over the established competitors who will also go after 3M's installed base.
-The service exclusivity is valuable. Your draft treats it as a moat, but the supplier gave it to you. You didn't earn it. It is only worth something if there is a large enough installed base in Canada needing recertification, and if your customers will send units to you rather than to the OEM, a competitor, or an in-house team.
-Customers outside your segment will convert to PPE buyers. Right now they buy Load Arrest from you because they have a problem and you had stock. That is not evidence they prefer you as a supplier. You currently have zero data on installed base size, service volume, or cross-sell behavior. Yet your whole "how to win" rests on all three.
-| Defend; we have seen sign (request for quotes, discussion with product experts) that are showing that there is an opportunity here. |
-| The board question I can't yet answer | What has to be true for this investment to generate an attractive return, and what evidence do we have that those conditions are tru | Change:  move to an economic model not just an assumption: (AI proposes At X installed units in Canada, generating Y service events per year at $Z average revenue and A% gross margin, plus B dollars of incremental PPE revenue per customer, we generate $___ EBITDA after $___ of fixed technical infrastructure and working capital.
-And then:
-Today, we have validated X, partially validated Y, and have no evidence for Z  |
-| KRs that are outputs in disguise | 25 technical service contracts signed is mostly an output not an outcome | Change to $X in recurring service revenue |
-| The "no" I should reconsider |Not selling in the USA due to the geopolitical climate|change -  We will not enter the US until Canadian operations demonstrate X service penetration, Y gross margin, Z technical capability, and we have confirmed the regulatory, liability and commercial requirements for US servic |
-| Strategy or wish list? Why? | Right now it is a wish list dressed as a strategy.  you have identified an attractive market opportunity and several desired outcomes but you haven't yet articulated the economic logic,  trade-off, or evidence that makes you right to win believable  | · |
+|That I am assuming that there is a real and true market that we can scale into.  This can be just a one-time spike from 3m's exit.  It even mentions that my own evidence is against me:  customers outside my normal segments, no relashionship, credibility or sales motion with them.  Once the gap closes the demand may fade.|The fact that 3m stepped out of the market does not provide guarantee for us that this new market will emerge.|PPE cross-sell is an output and hope.  These may represent a growth in segments we have not developped before but still it might lead to new revenue dollars.  I don't think it takes this much focus and energy to generate a contact with these customer and have them discover our company.|
+
+
 
 ## 5. Self-diagnostic (6 questions)
 
